@@ -60,7 +60,7 @@
     torch-spline-conv==1.2.1
     torchaudio==0.8.2
     torchvision==0.9.2+cu102
-  <h3>Run all studies at once</h3>
+  <h3>Run all studies with one command</h3>
   <p>
     <ol>
         <li>Give execute permission for run_studies.sh file: <code>chmod +x run_studies.sh</code></li>
