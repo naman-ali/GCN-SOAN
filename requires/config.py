@@ -256,7 +256,7 @@ REAL_DATA_RAW_DIR = ROOT_DIR + 'data/real_data_raw/'
 REAL_DATA_PROCESSED_DIR = ROOT_DIR + 'data/real_data_processed/'
 
 
-runs = 4
+runs = 3
 MODELS = [
     'Average',
     'Median',
