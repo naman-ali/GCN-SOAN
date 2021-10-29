@@ -65,7 +65,7 @@
     <ol>
         <li>Give execute permission for run_studies.sh file: <code>chmod +x run_studies.sh</code></li>
         <li>Run the bash script: <code>run_studies.sh</code></li>
-        <li>The results of simulated studies will be saved in <code>data/simulated_studies/study*/</code></li>
+        <li>The results of simulated studies will be saved in <code>data/simulated_studies/study*/*.pdf</code></li>
         <li>The results of real-world studies will be saved in <code>data/real_data_processed/rmse_models*.csv</code></li>
     </ol>
   </p>
