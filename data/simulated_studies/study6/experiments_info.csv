@@ -1,0 +1,3 @@
+experiment_id,study,run,class_size,number_of_graders,mean1,std1,size1,mean2,std2,size2,alpha,beta,average_rmse,median_rmse,peerrank_rmse,gcn_rmse,rankwithTA_rmse,PG1_rmse,Vancouver_rmse,SemiAverage_rmse
+1,Study 7: homophily,2,500,3,0.3,0.1,100,0.7,0.1,400,0.0,0.25,,,,,,,,
+2,Study 7: homophily,3,500,3,0.3,0.1,100,0.7,0.1,400,0.0,0.25,,,,,,,,
