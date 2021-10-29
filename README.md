@@ -60,7 +60,13 @@
     torch-spline-conv==1.2.1
     torchaudio==0.8.2
     torchvision==0.9.2+cu102
-
+  <h3>Run all studies at once</h3>
+  <p>
+    <ol>
+        <li>Give execute permission for run_studies.sh file: <code>chmod +x run_studies.sh</code></li>
+        <li>Run the bash script: <code>run_studies.sh</code></li>
+    </ol>
+  </p>
   <h3>Run simulated studies in paper</h3>
   <p>
     There are 6 studies conducted in the paper, each investigating the impact of one factor on the results. To run each of them separately:
