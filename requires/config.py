@@ -107,7 +107,6 @@ if study == 'ground_truth_distribution':
     left_pick_portion = 0
 
     locs2 = np.arange(0.1, 1.0, 0.1)
-    locs2 = np.arange(0.1, 1.0, 0.2)
     scales2 = [0.15]
 
     grader_error_type = 'constant_std'  # constant_std, working_impact_grading
