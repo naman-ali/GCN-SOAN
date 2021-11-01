@@ -187,7 +187,7 @@ def run():
     # interpret results
     rmse_models = interpret_results(gcn_rmses=gcn_rmses)
 
-    rmse_models['best'] = rmse_models.idxmin(axis=1)
+    # rmse_models['best'] = rmse_models.idxmin(axis=1)
     print("GCN rmses:", gcn_rmses)
     print(rmse_models)
 
