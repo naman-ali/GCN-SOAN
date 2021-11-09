@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#python3 main.py --study=number_of_graders
+python3 main.py --study=number_of_graders
 python3 main.py --study=graders_bias
 python3 main.py --study=ground_truth_distribution
 python3 main.py --study=working_impact_grading
