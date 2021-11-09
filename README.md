@@ -136,5 +136,21 @@
   </p>
 </section>
 
+<!-- Reference -->
+<section>
+  <h2 id="reference">Cite us</h2>
+  <p>Arxiv link: <a href="https://arxiv.org/abs/2111.04466">https://arxiv.org/abs/2111.04466</a></p>
+  <code>
+    @misc{namanloo2021improving,
+      title={Improving Peer Assessment with Graph Convolutional Networks}, 
+      author={Alireza A. Namanloo and Julie Thorpe and Amirali Salehi-Abari},
+      year={2021},
+      eprint={2111.04466},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY}
+    }
+  </code>
+</section>
+
 
 
